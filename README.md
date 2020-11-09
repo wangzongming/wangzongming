@@ -3,7 +3,7 @@
 
 🔭 I'm currently working on web front end development
 
-🌱 Now learning Kotlin
+🌱 Now learning Kotlin And C
 
 ✌ The skills I have now are Javascript React Vue Nodejs Applet of WeChat ...
  
