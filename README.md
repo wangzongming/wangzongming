@@ -7,7 +7,7 @@
 
 ✌ The skills I have now are Javascript React Vue Nodejs Applet of WeChat ...
  
-## 🤓 Others platform
+## 🎨 Others platform
 
 <a href="https://juejin.im/user/114004941606440/posts">juejin post | 掘金技术文章</a>
 <br/>
