@@ -1,11 +1,11 @@
 
-## 👋 Hello! Here is jonas.
+## 👋 Hello! Here is Wang Zong Ming.
 
 🔭 I'm currently working on web front end development
 
-🌱 Now learning Kotlin And C
+🌱 A little prince who seems to love technology
 
-✌ The skills I have now are Javascript React Vue Nodejs Applet of WeChat ...
+✌ Give my warehouse a star, we are brothers.
  
 ## 🎨 Others platform
 
